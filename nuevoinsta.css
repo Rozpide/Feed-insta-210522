@@ -1,0 +1,94 @@
+.cuerpo, .container, .contenedor{background-color: rgba(128, 128, 128, 0.14);}
+.container{padding-bottom: 20px;}
+header{background: white;
+display: flex;
+width: 1700px;
+display: inline-block;
+align-items: center;
+height: 220px;
+}
+.buttons{
+    display: flex;
+    justify-content: end;
+}
+input {background-color:rgb(44, 161, 67) ;
+color: aliceblue;}
+.boton,
+fieldset{background-color: rgb(44, 161, 67);
+    border: rgb(67, 162, 46);
+    color: aliceblue;
+    width: 150px;
+}
+.portada{border: 1px solid red;
+    background-color: white;
+    margin-left:  10px;
+    margin-top: 100px;
+    width: 1215px;
+    align-items: center;
+    height: 930px;
+    
+
+}
+.index-inicio 
+     {
+        color: rgb(255, 255, 255); font-size: 16px; line-height: 16px; padding: 6px; border-radius: 10px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(209, 24, 36) 0%, rgb(223, 32, 45) 50%, rgb(246, 8, 8) 100%); box-shadow: rgba(0, 0, 0, 0.02) 5px 5px 15px 5px; border: 2px solid rgb(225, 17, 17); display: inline-block;}
+        .index-inicio:hover {
+        background: #b82c2c; }
+        .index-inicio:active {
+        background: #751414; }
+.index{
+    color: rgb(255, 255, 255); font-size: 16px; line-height: 16px; padding: 6px; border-radius: 10px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgba(0, 0, 0, 0.02) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+    .index:hover {
+        background: #1C6EA4; }
+    .index:active {
+        background: #144E75;
+}        
+h1{font-size: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;}
+.contenedor{width: 1232px;
+    height: 1000px;
+    margin: 0 auto
+    ;
+}
+.cabecera {width: 1200;}
+.nav{
+    justify-content: center;
+text-align: center;}
+.fotos1{height: 400px;}
+.insta{display: flex;
+justify-content:start;
+width: 200px;background-color: rgba(128, 128, 128, 0.14);}
+.buttons,
+.buscador{
+    display: flex;
+    justify-content: end;}
+.post{border: 1px solid red;
+background-color: white;
+margin-left:  340px;
+margin-top: 10px;
+width: 600px;
+align-items: center;
+}
+img{
+    width: 400px;
+    height: 330;
+}
+.post h2,
+.post span{padding: 15px 15px;
+margin: 0;}
+.post-header{display: flex
+    ;
+justify-content: space-between;
+align-items: center;
+}
+.span{color: rgb(200,200, 200);}
+.img{width: 50%;}
+.foto{align-items: center;
+justify-content: end;
+}
+.foto-central{justify-content: end
+    ;width: 100%;
+   
+}
+
